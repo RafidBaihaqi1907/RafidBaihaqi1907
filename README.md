@@ -1,5 +1,5 @@
 # 🙌🏻 Selamat Datang di Profil Github Saya
-Halo! Saya Alvin Syahrinaldi, seorang mahasiswa Teknik Komputer di Universitas Jenderal Soedirman
+Halo! Saya Muhammad Rafid Baihaqi, seorang mahasiswa Teknik Komputer di Universitas Jenderal Soedirman
 
 ## 🧑🏻‍💻 Tentang Saya
 - 🔭 Saat ini sedang belajar: `C/C++`, dan `Python`
